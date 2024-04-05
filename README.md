@@ -450,10 +450,12 @@ NonceGeek -- Cool-Oriented Programming.
 
 > TODO
 
-## 0x08 Distributed Rules
+## 0x08 Related Repos
 
-<!-- distributed_rules -->
+<!-- related_repos -->
 
 ```
 https://github.com/NonceGeek/web3_aptos_ex, 20%
 ```
+
+<!-- end -->
