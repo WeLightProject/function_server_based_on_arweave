@@ -8,6 +8,8 @@ defmodule Components.ArweaveHandler do
     # call the priv key local.
     jwt = ArweaveSdkEx.Wallet.read_jwk_json_from_file("../arweave_wallet.json")
     reward_coefficient = 1
+    IO.puts inspect data
+    IO.puts inspect tags
     {tx_signed, id, _tx_unsigned} = 
       ArweaveSdkEx.Wallet.sign_tx(node, data, tags, jwt, reward_coefficient)
     {:ok, "success submit tx"} = 

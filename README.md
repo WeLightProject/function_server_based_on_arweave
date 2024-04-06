@@ -446,16 +446,18 @@ NonceGeek -- Cool-Oriented Programming.
 
 > https://github.com/NonceGeek/tai_shang_micro_faas_system/graphs/contributors
 
-## 0x07 Money History
 
-> TODO
+## 0x08 Distribution
 
-## 0x08 Related Repos
-
-<!-- related_repos -->
+<!-- distribution -->
 
 ```
 https://github.com/NonceGeek/web3_aptos_ex, 20%
 ```
 
 <!-- end -->
+
+
+## 0x09 Money History
+
+> TODO
