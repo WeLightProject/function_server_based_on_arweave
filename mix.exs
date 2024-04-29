@@ -63,7 +63,7 @@ defmodule TaiShangMicroFaasSystem.MixProject do
       {:plug_cowboy, "~> 2.5"},
 
       # arweave
-      {:arweave_sdk_ex, "~> 0.1.10"},
+      {:arweave_sdk_ex, "~> 0.1.11"},
 
       # ethereum
       {:ethereumex, "~> 0.9"},
